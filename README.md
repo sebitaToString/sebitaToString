@@ -1,7 +1,5 @@
 ### Hola 👋, soy Sebastian Ramos
 #### DevOps
-![DevOps](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Habilidades: Docker / Azure / Kubernetes / SonarQu/ Pipelines / Github actions
 
@@ -19,7 +17,5 @@ Habilidades: Docker / Azure / Kubernetes / SonarQu/ Pipelines / Github actions
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sebitatostring)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sebitatostring)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sebitatostring)  
 
 ![Profile views](https://gpvc.arturio.dev/sebitatostring)  
