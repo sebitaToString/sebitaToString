@@ -1,21 +1,17 @@
-### Hola 👋, soy Sebastian Ramos
-#### DevOps
+<h1 align="center">Hi 👋, I'm Sebastian Ramos</h1>
+<h3 align="center">A passionate DevOps from Chile</h3>
 
-Habilidades: Docker / Azure / Kubernetes / SonarQu/ Pipelines / Github actions
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebitatostring&label=Profile%20views&color=0e75b6&style=flat" alt="sebitatostring" /> </p>
 
-- 🔭 Estoy trabajando en this page. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebitatostring" alt="sebitatostring" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sebitatostring)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sebitatostring)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebitatostring&show_icons=true&locale=en&layout=compact" alt="sebitatostring" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebitatostring)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebitatostring&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sebitatostring)  
-
-![GitHub metrics](https://metrics.lecoq.io/sebitatostring)  
-
-![Profile views](https://gpvc.arturio.dev/sebitatostring)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebitatostring&show_icons=true&locale=en" alt="sebitatostring" /></p>
