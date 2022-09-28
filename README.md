@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hola 👋, soy Sebastian Ramos
+#### DevOps
+![DevOps](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**sebitaToString/sebitaToString** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Habilidades: Docker / Azure / Kubernetes / SonarQu/ Pipelines / Github actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sebitatostring)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sebitatostring)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebitatostring)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebitatostring&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sebitatostring)  
+
+![GitHub metrics](https://metrics.lecoq.io/sebitatostring)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sebitatostring)  
+
+![Profile views](https://gpvc.arturio.dev/sebitatostring)  
